@@ -18,11 +18,18 @@ This is my portfolio to showcase a little bit about me, some of my projects, my 
   * Page also allow to scroll down and up and on all screens(tablet,phone) you can see properly
 
 ## Mock 
-https://github.com/dpatel615/update-portfolio/blob/main/Assets/Images/Screen%20Shot%202022-04-29%20at%2011.17.41%20PM.png 
+<h3>About Me - Home</h3>
 
-https://github.com/dpatel615/update-portfolio/blob/main/Assets/Images/Screen%20Shot%202022-04-29%20at%2011.17.54%20PM.png
+<img src="Assets/Images/Screen Shot 2022-04-29 at 11.17.41 PM.png">
 
-https://github.com/dpatel615/update-portfolio/blob/main/Assets/Images/Screen%20Shot%202022-04-29%20at%2011.17.54%20PM.png
+<h3>Portfolio - List of Projects</h3>
+
+<img src="Assets/Images/Screen Shot 2022-04-29 at 11.17.54 PM.png">
+
+<h3>Contact</h3>
+
+<img src="Assets/Images/Screen Shot 2022-04-29 at 11.18.02 PM.png">
+
 
 
 
